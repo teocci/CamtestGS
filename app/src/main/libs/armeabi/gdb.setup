@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi
+directory /home/teocci/Android/Ndk/platforms/android-19/arch-arm/usr/include /home/teocci/LibSRC/gsteamer-sdk/include/gstreamer-1.0 /home/teocci/LibSRC/gsteamer-sdk/lib/gstreamer-1.0/include /home/teocci/LibSRC/gsteamer-sdk/include/glib-2.0 /home/teocci/LibSRC/gsteamer-sdk/lib/glib-2.0/include jni /home/teocci/Android/Ndk/sources/cxx-stl/system
